@@ -1,0 +1,6 @@
+name: NametagHider
+version: '1.0'
+main: com.Lino.nametagHider.NametagHider
+api-version: '1.21'
+author: Lino
+description: Hides player nametags on the server
